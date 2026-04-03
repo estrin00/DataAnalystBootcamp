@@ -1,2 +1,2 @@
 # DataAnalystBootcamp
-data analyst bootcamp // excercises, projects
+Projects done as a part of the Data Analyst Bootcamp by Alex Freberg.
